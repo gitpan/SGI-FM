@@ -1,0 +1,10 @@
+Angle			T_SHORT
+Boolean			T_LONG
+Colorindex		T_U_SHORT
+Coord			T_FLOAT
+Device			T_U_SHORT
+Icoord			T_LONG
+Scoord			T_SHORT
+Screencoord		T_SHORT
+float			T_FLOAT
+fmfonthandle		T_PTROBJ
